@@ -37,7 +37,7 @@ The project involves three datasets containing information about transactions, b
 | `category`   | Category of the meal                               |
 | `cuisine`    | Cuisine type (categorical variable)               |
 
----
+<!-- ---
 
 ## Project Structure
 - **Data:** Contains the training, validation, and test datasets.
@@ -53,9 +53,6 @@ The project involves three datasets containing information about transactions, b
 - **Feature Engineering:** Develop features that capture relevant patterns.
 - **Model Development:** Train machine learning models to accurately predict future food orders.
 - **Evaluation:** Measure performance using appropriate metrics.
-- **Deployment:** Provide a scalable solution for real-time prediction.
+- **Deployment:** Provide a scalable solution for real-time prediction. -->
 
----
-
-Feel free to customize or expand the README as you add more insights and details to your project!
 
