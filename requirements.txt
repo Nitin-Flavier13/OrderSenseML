@@ -1,4 +1,8 @@
 pandas
 numpy
+seaborn
 scikit-learn
-LightGBM
+lightgbm
+optuna
+plotly
+matplotlib
